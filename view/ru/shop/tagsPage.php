@@ -1,0 +1,755 @@
+<!doctype html>
+<!--[if IE 8 ]>
+<html lang="en" class="no-js ie8">
+    <![endif]-->
+    <!--[if (gt IE 9)|!(IE)]>
+    <!-->
+    <html lang="ru" class="no-js">
+        <!--<![endif]-->
+<head>
+        <?php include ("../../../head.php") ?>
+ </head>
+
+<body class="template" itemscope itemtype="http://schema.org/WebPage">
+         <?php include ("../../../header.php") ?>
+        <div id="content-wrapper-parent">
+            <div id="content-wrapper">
+                <div id="content" class="container clearfix">
+                    <div id="breadcrumb" class="row breadcrumb">
+                        <div class="" itemprop="breadcrumb">
+                            <a href="../../../view/ru/main" class="homepage-link" title="Главная">Главная</a> <i class="fa fa-angle-right"></i>
+                            <span class="page-title">ТОВАРЫ ПО ЗАПРОСУ: КРЕМЛЬ</span>
+                        </div>
+                    </div>
+                    <section class="row content">
+                        <!--#col-main-->
+                        <div id="col-main" class="collection collection-page col-content col-sm-15 col-md-15">
+
+                            <div id="page-header">
+                                <h1 id="page-title">ТОВАРЫ ПО ЗАПРОСУ: КРЕМЛЬ</h1>
+                            </div>
+
+                            <!--#sandBox-wrapper-->
+                            <div id="sandBox-wrapper" class="group-product-item">
+                                <ul id="sandBox" class="list-unstyled row isotope">
+                                    <!--#начало товара-->
+                                    <li class="element first isotope-item" data-alpha=" " data-price="5000">
+                                        <form action="/cart/add" method="post">
+                                            <ul class="row-container list-unstyled clearfix">
+                                                <li class="row-left">
+                                                    <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                                                        <span class="hoverBorderWrapper">
+                                                            <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                                                            <span class="hidden-sm hidden-xs">
+                                                                <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                                <li class="row-right text-left parent-fly animMix">
+                                                    <a class="title-5" href="../../../view/ru/shop/product.php">Футболка Мужская "Кремль"</a>
+
+                                                    <div class="card-tags">
+                                                        <span> <i class="fa   fa-tags red"></i>
+                                                            Теги:
+                                                        </span>
+                                                        <a href="#">Мужские /</a>
+                                                        <a href="#">Футболки /</a>
+                                                        <a href="#">
+                                                            Москва
+                                                    /
+                                                        </a>
+                                                        <a href="#">Кремль</a>
+                                                    </a>
+                                                </div>
+                                                <div class="product-price">
+                                                    <span class="price">
+                                                        <span class="money">1300 руб.</span>
+                                                    </span>
+                                                </div>
+                                                <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+                                            </li>
+                                        </ul>
+                                    </form>
+                                </li>
+                                <!--#конец товара-->
+
+                                <!--#начало товара-->
+                                <li class="element isotope-item"
+                                data-alpha="Dellentes sagittis sodales accum etiam  lobortis purus dictum"
+                                data-price="5000">
+                                    <form action="/cart/add" method="post">
+                                        <ul class="row-container list-unstyled clearfix">
+                                            <li class="row-left">
+                                                <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                                                    <span class="hoverBorderWrapper">
+                                                        <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front"
+                                 alt="Dellentes sagittis sodales accum etiam  lobortis purus dictum">
+                                                        <span class="hidden-sm hidden-xs">
+                                                            <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive"
+                                   alt="Dellentes sagittis sodales accum etiam  lobortis purus dictum"></span>
+                                                    </span>
+                                                    <span class="sale_banner">
+                                                        <img class="byye" src="../../../asset/image/saleoff.png" title="Скидка" alt="Скидка"></span>
+                                                </a>
+                                            </li>
+                                            <li class="row-right text-left parent-fly animMix">
+                                                <a class="title-5" href="../../../view/ru/shop/product.php">Свитшот Женский "Кремль"</a>
+
+                                                <div class="card-tags">
+                                                    <span>
+                                                        <i class="fa   fa-tags red"></i>
+                                                        Теги:
+                                                    </span>
+                                                    <a href="#">Женские /</a>
+                                                    <a href="#">Свитшоты /</a>
+                                                    <a href="#">
+                                                        Москва
+                                                    /
+                                                    </a>
+                                                    <a href="#">Кремль /</a>
+                                                    <a href="#">Товары со скидкой</a>
+                                                </a>
+                                            </div>
+                                            <div class="product-price">
+                                                <span class="price_sale">
+                                                    <span class="money">2100 руб.</span>
+                                                </span> <del class="price_compare"><span class="money">2500 руб.</span></del> 
+                                            </div>
+                                            <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+                                        </li>
+                                    </ul>
+                                </form>
+                            </li>
+                            <!--#конец товара-->
+                            <!--#начало товара-->
+                            <li class="element first isotope-item" data-alpha=" " data-price="5000">
+                                <form action="/cart/add" method="post">
+                                    <ul class="row-container list-unstyled clearfix">
+                                        <li class="row-left">
+                                            <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                                                <span class="hoverBorderWrapper">
+                                                    <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                                                    <span class="hidden-sm hidden-xs">
+                                                        <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li class="row-right text-left parent-fly animMix">
+                                            <a class="title-5" href="../../../view/ru/shop/product.php">Кружка "Кремль"</a>
+
+                                            <div class="card-tags">
+                                                <span>
+                                                    <i class="fa   fa-tags red"></i>
+                                                    Теги:
+                                                </span>
+                                                <a href="#">Кружки /</a>
+                                                <a href="#">Аксессуары /</a>
+                                                <a href="#">
+                                                    Москва
+                                                    /
+                                                </a>
+                                                <a href="#">Кремль</a>
+                                            </a>
+                                        </div>
+                                        <div class="product-price">
+                                            <span class="price">
+                                                <span class="money">700 руб.</span>
+                                            </span>
+                                        </div>
+                                        <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+                                    </li>
+                                </ul>
+                            </form>
+                        </li>
+                        <!--#конец товара-->
+                        <!--#начало товара-->
+                        <li class="element first isotope-item" data-alpha=" " data-price="5000">
+                            <form action="/cart/add" method="post">
+                                <ul class="row-container list-unstyled clearfix">
+                                    <li class="row-left">
+                                        <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                                            <span class="hoverBorderWrapper">
+                                                <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                                                <span class="hidden-sm hidden-xs">
+                                                    <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="row-right text-left parent-fly animMix">
+                                        <a class="title-5" href="../../../view/ru/shop/product.php">Кепка "Кремль"</a>
+
+                                        <div class="card-tags">
+                                            <span>
+                                                <i class="fa   fa-tags red"></i>
+                                                Теги:
+                                            </span>
+                                            <a href="#">Кепки /</a>
+                                            <a href="#">Москва /</a>
+                                            <a href="#">Кремль</a>
+                                        </a>
+                                    </div>
+                                    <div class="product-price">
+                                        <span class="price">
+                                            <span class="money">700 руб.</span>
+                                        </span>
+                                    </div>
+                                    <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+                                </li>
+                            </ul>
+                        </form>
+                    </li>
+                    <!--#конец товара-->
+                    <!--#начало товара-->
+                    <li class="element first isotope-item" data-alpha=" " data-price="5000">
+                        <form action="/cart/add" method="post">
+                            <ul class="row-container list-unstyled clearfix">
+                                <li class="row-left">
+                                    <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                                        <span class="hoverBorderWrapper">
+                                            <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                                            <span class="hidden-sm hidden-xs">
+                                                <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="row-right text-left parent-fly animMix">
+                                    <a class="title-5" href="../../../view/ru/shop/product.php">Футболка для Девочек "Кремль"</a>
+
+                                    <div class="card-tags">
+                                        <span>
+                                            <i class="fa   fa-tags red"></i>
+                                            Теги:
+                                        </span>
+                                        <a href="#">Девочкам /</a>
+                                        <a href="#">Футболки /</a>
+                                        <a href="#">
+                                            Москва
+                                                    /
+                                        </a>
+                                        <a href="#">Кремль</a>
+                                    </a>
+                                </div>
+                                <div class="product-price">
+                                    <span class="price">
+                                        <span class="money">1100 руб.</span>
+                                    </span>
+                                </div>
+                                <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+                            </li>
+                        </ul>
+                    </form>
+                </li>
+                <!--#конец товара-->
+                <!--#начало товара-->
+                <li class="element first isotope-item" data-alpha=" " data-price="5000">
+                    <form action="/cart/add" method="post">
+                        <ul class="row-container list-unstyled clearfix">
+                            <li class="row-left">
+                                <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                                    <span class="hoverBorderWrapper">
+                                        <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                                        <span class="hidden-sm hidden-xs">
+                                            <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="row-right text-left parent-fly animMix">
+                                <a class="title-5" href="../../../view/ru/shop/product.php">
+                                    Толстовка на молнии для Мальчиков
+                                                "Кремль"
+                                </a>
+
+                                <div class="card-tags">
+                                    <span>
+                                        <i class="fa   fa-tags red"></i>
+                                        Теги:
+                                    </span>
+                                    <a href="#">Мальчикам /</a>
+                                    <a href="#">Детские /</a>
+                                    <a href="#">
+                                        Толстовки
+                                                    на молнии /
+                                    </a>
+                                    <a href="#">Москва /</a>
+                                    <a href="#">Кремль</a>
+                                </a>
+                            </div>
+                            <div class="product-price">
+                                <span class="price">
+                                    <span class="money">1800 руб.</span>
+                                </span>
+                            </div>
+                            <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+                        </li>
+                    </ul>
+                </form>
+            </li>
+            <!--#конец товара-->
+            <!--#начало товара-->
+            <li class="element first isotope-item" data-alpha=" " data-price="5000">
+                <form action="/cart/add" method="post">
+                    <ul class="row-container list-unstyled clearfix">
+                        <li class="row-left">
+                            <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                                <span class="hoverBorderWrapper">
+                                    <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                                    <span class="hidden-sm hidden-xs">
+                                        <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="row-right text-left parent-fly animMix">
+                            <a class="title-5" href="../../../view/ru/shop/product.php">Футболка для Мальчиков "Кремль"</a>
+
+                            <div class="card-tags">
+                                <span>
+                                    <i class="fa   fa-tags red"></i>
+                                    Теги:
+                                </span>
+                                <a href="#">Мальчикам /</a>
+                                <a href="#">Детские /</a>
+                                <a href="#">
+                                    Футболки
+                                                    /
+                                </a>
+                                <a href="#">Москва /</a>
+                                <a href="#">Кремль</a>
+                            </a>
+                        </div>
+                        <div class="product-price">
+                            <span class="price">
+                                <span class="money">1100 руб.</span>
+                            </span>
+                        </div>
+                        <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+                    </li>
+                </ul>
+            </form>
+        </li>
+        <!--#конец товара-->
+        <!--#начало товара-->
+        <li class="element first isotope-item" data-alpha=" " data-price="5000">
+            <form action="/cart/add" method="post">
+                <ul class="row-container list-unstyled clearfix">
+                    <li class="row-left">
+                        <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                            <span class="hoverBorderWrapper">
+                                <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                                <span class="hidden-sm hidden-xs">
+                                    <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="row-right text-left parent-fly animMix">
+                        <a class="title-5" href="../../../view/ru/shop/product.php">Свитшот Мужской "Кремль"</a>
+
+                        <div class="card-tags">
+                            <span>
+                                <i class="fa   fa-tags red"></i>
+                                Теги:
+                            </span>
+                            <a href="#">Свитшоты /</a>
+                            <a href="#">Мужские /</a>
+                            <a href="#">
+                                Москва
+                                                    /
+                            </a>
+                            <a href="#">Кремль</a>
+                        </a>
+                    </div>
+                    <div class="product-price">
+                        <span class="price">
+                            <span class="money">2300 руб.</span>
+                        </span>
+                    </div>
+                    <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+                </li>
+            </ul>
+        </form>
+    </li>
+    <!--#конец товара-->
+    <!--#начало товара-->
+    <li class="element first isotope-item" data-alpha=" " data-price="5000">
+        <form action="/cart/add" method="post">
+            <ul class="row-container list-unstyled clearfix">
+                <li class="row-left">
+                    <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                        <span class="hoverBorderWrapper">
+                            <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                            <span class="hidden-sm hidden-xs">
+                                <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                        </span>
+                        <span class="sale_banner">
+                            <img class="byye" src="../../../asset/image/new-collection.png" title="Новинка" alt="Новинка"></span>
+                    </a>
+                </li>
+                <li class="row-right text-left parent-fly animMix">
+                    <a class="title-5" href="../../../view/ru/shop/product.php">Чехол для телефона "Кремль"</a>
+
+                    <div class="card-tags">
+                        <span>
+                            <i class="fa   fa-tags red"></i>
+                            Теги:
+                        </span>
+                        <a href="#">Чехлы /</a>
+                        <a href="#">Аксессуары /</a>
+                        <a href="#">
+                            Москва
+                                                    /
+                        </a>
+                        <a href="#">Кремль /</a>
+                        <a href="#">Новая продукция</a>
+                    </a>
+                </div>
+                <div class="product-price">
+                    <span class="price">
+                        <span class="money">600 руб.</span>
+                    </span>
+                </div>
+                <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+            </li>
+        </ul>
+    </form>
+</li>
+<!--#конец товара-->
+<!--#начало товара-->
+<li class="element first isotope-item" data-alpha=" " data-price="5000">
+    <form action="/cart/add" method="post">
+        <ul class="row-container list-unstyled clearfix">
+            <li class="row-left">
+                <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                    <span class="hoverBorderWrapper">
+                        <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                        <span class="hidden-sm hidden-xs">
+                            <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                    </span>
+                </a>
+            </li>
+            <li class="row-right text-left parent-fly animMix">
+                <a class="title-5" href="../../../view/ru/shop/product.php">
+                    Толстовка без молнии для Девочек
+                                                "Кремль"
+                </a>
+
+                <div class="card-tags">
+                    <span>
+                        <i class="fa   fa-tags red"></i>
+                        Теги:
+                    </span>
+                    <a href="#">Толстовки без молнии/</a>
+                    <a href="#">Девочкам /</a>
+                    <a
+                                                    href="#">Москва /</a>
+                    <a href="#">Кремль</a>
+                </a>
+            </div>
+            <div class="product-price">
+                <span class="price">
+                    <span class="money">1800 руб.</span>
+                </span>
+            </div>
+            <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+        </li>
+    </ul>
+</form>
+</li>
+<!--#конец товара-->
+<!--#начало товара-->
+<li class="element first isotope-item" data-alpha=" " data-price="5000">
+<form action="/cart/add" method="post">
+    <ul class="row-container list-unstyled clearfix">
+        <li class="row-left">
+            <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+                <span class="hoverBorderWrapper">
+                    <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                    <span class="hidden-sm hidden-xs">
+                        <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+                </span>
+            </a>
+        </li>
+        <li class="row-right text-left parent-fly animMix">
+            <a class="title-5" href="../../../view/ru/shop/product.php">Футболка Женская "Кремль"</a>
+
+            <div class="card-tags">
+                <span>
+                    <i class="fa   fa-tags red"></i>
+                    Теги:
+                </span>
+                <a href="#">Футболки /</a>
+                <a href="#">Женские /</a>
+                <a href="#">
+                    Москва
+                                                    /
+                </a>
+                <a href="#">Кремль</a>
+            </a>
+        </div>
+        <div class="product-price">
+            <span class="price">
+                <span class="money">1300 руб.</span>
+            </span>
+        </div>
+        <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+    </li>
+</ul>
+</form>
+</li>
+<!--#конец товара-->
+<!--#начало товара-->
+<li class="element first isotope-item" data-alpha=" " data-price="5000">
+<form action="/cart/add" method="post">
+<ul class="row-container list-unstyled clearfix">
+    <li class="row-left">
+        <a href="../../../view/ru/shop/product.php" class="hoverBorder container_item">
+            <span class="hoverBorderWrapper">
+                <img src="../../../asset/image/demos/demo_258x310.png" class="image-fly img-responsive front" alt=" ">
+                <span class="hidden-sm hidden-xs">
+                    <img src="../../../asset/image/card-hover.png" class="rotation back img-responsive" alt=" "></span>
+            </span>
+        </a>
+    </li>
+    <li class="row-right text-left parent-fly animMix">
+        <a class="title-5" href="../../../view/ru/shop/product.php">Майка Мужская "Кремль"</a>
+
+        <div class="card-tags">
+            <span>
+                <i class="fa   fa-tags red"></i>
+                Теги:
+            </span>
+            <a href="#">Майки /</a>
+            <a href="#">Мужские /</a>
+            <a href="#">
+                Москва
+                                                    /
+            </a>
+            <a href="#">Кремль</a>
+        </a>
+    </div>
+    <div class="product-price">
+        <span class="price">
+            <span class="money">900 руб.</span>
+        </span>
+    </div>
+    <button class="btn select-option" type="button"
+                                                    onclick="window.location='../../../view/ru/shop/product.php'">Выбрать</button>
+</li>
+</ul>
+</form>
+</li>
+<!--#конец товара-->
+
+</ul>
+</div>
+<div class="pagination clearfix">
+<div class="col-md-20">
+<ul class="list-inline">
+<li class="prev">
+<a class="disabled" href="javascript:">Предыдущая</a>
+</li>
+<li class="active">
+<a href="javascript:">1</a>
+</li>
+<li>
+<a href="#">2</a>
+</li>
+<li class="next">
+<a href="#">&gt;&gt;</a>
+</li>
+</ul>
+<p class="pagination-num-showing hidden-xs">Товары с 1 по 12 из 17</p>
+</div>
+</div>
+
+</div>
+<!--end #col-main-->
+
+<!--sidebar-->
+<div id="prodcoll" class="col-sm-5 col-md-5 sidebar">
+<div class="group_sidebar">
+<div class="sb-wrapper not-animated" data-animate="fadeIn" data-delay="300">
+<div class="sb-title">Продукция на заказ</div>
+<a href="../../../view/ru/main/exclusive.php">
+<img class="imeger" src="../../../content/im-zakaz.png" alt=" "></a>
+<ul class="list-unstyled sb-content textwidget list-styled">
+<li>
+<p>
+У нас вы также можете заказать
+<a href="../../../view/ru/main/exclusive.php" class="red upper">нестандартные решения</a>
+наших
+                                        продуктов - подобрать другой
+                                        принт, выбрать любой цвет,
+                                        нанести инициалы и
+                                        уникальные надписи.
+                                        Хотите уникальное решение?
+                                        Посетиетите категорию:
+<a href="../../../view/ru/main/exclusive.php"
+                                                                  class="red upper">ЭКСКЛЮЗИВ</a>
+
+</p>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<!--end sidebar-->
+
+</section>
+</div>
+</div>
+</div>
+<div class="modal fade" id="quick-shop-modal"></div>
+<?php include ("../../../footer.php") ?>
+<script src="../../../asset/javascript/jquery.isotope.min.js" type="text/javascript"></script>
+
+<!--end #sandBox-wrapper-->
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        "use strict";
+
+        if ($.browser.msie && $.browser.version == 7) {
+            $(window).load(function () {
+                var $container = $('#sandBox');
+
+                $container.isotope({
+                    itemSelector: '.element',
+                    layoutMode: 'fitRows',
+                    getSortData: {
+                        name: function ($elem) {
+                            return $elem.attr('data-alpha');
+                        },
+                        price: function ($elem) {
+                            return $elem.attr('data-price');
+                        }
+                    }
+                });
+
+
+                var $optionSets = $('#options .option-set'),
+                    $optionLinks = $optionSets.find('li');
+
+                $optionLinks.click(function () {
+                    var $this = $(this);
+                    // don't proceed if already selected
+                    if ($this.hasClass('selected')) {
+                        return false;
+                    }
+
+                    var $direction = $(this).attr('data-order');
+                    var key1 = 'sortAscending',
+                        value1 = true;
+                    switch ($direction) {
+                        case 'asc':
+                            value1 = true;
+                            break;
+
+                        case 'desc':
+                            value1 = false;
+                            break;
+                    }
+
+                    var $optionSet = $this.parents('.option-set');
+                    $optionSet.find('.selected').removeClass('selected');
+                    $this.addClass('selected');
+
+                    // make option object dynamically, i.e. { filter: '.my-filter-class' }
+                    var options = {},
+                        key = $optionSet.attr('data-option-key'),
+                        value = $this.attr('data-option-value');
+                    // parse 'false' as false boolean
+                    value = value === 'false' ? false : value;
+                    options[key] = value;
+                    options[key1] = value1;
+                    if (key === 'layoutMode' && typeof changeLayoutMode === 'function') {
+                        // changes in layout modes need extra logic
+                        changeLayoutMode($this, options)
+                    } else {
+                        // otherwise, apply new options
+                        $container.isotope(options);
+                    }
+
+                    return false;
+                });
+            });
+        }
+        else {
+            $(window).load(function () {
+                var $container = $('#sandBox');
+
+                $container.isotope({
+                    itemSelector: '.element',
+                    layoutMode: 'fitRows',
+                    getSortData: {
+                        name: function ($elem) {
+                            return $elem.attr('data-alpha');
+                        },
+                        price: function ($elem) {
+                            return $elem.attr('data-price');
+                        }
+                    }
+                });
+
+
+                var $optionSets = $('#options .option-set'),
+                    $optionLinks = $optionSets.find('li');
+
+                $optionLinks.click(function () {
+                    var $this = $(this);
+                    // don't proceed if already selected
+                    if ($this.hasClass('selected')) {
+                        return false;
+                    }
+
+                    var $direction = $(this).attr('data-order');
+                    var key1 = 'sortAscending',
+                        value1 = true;
+                    switch ($direction) {
+                        case 'asc':
+                            value1 = true;
+                            break;
+
+                        case 'desc':
+                            value1 = false;
+                            break;
+                    }
+
+                    var $optionSet = $this.parents('.option-set');
+                    $optionSet.find('.selected').removeClass('selected');
+                    $this.addClass('selected');
+
+                    // make option object dynamically, i.e. { filter: '.my-filter-class' }
+                    var options = {},
+                        key = $optionSet.attr('data-option-key'),
+                        value = $this.attr('data-option-value');
+                    // parse 'false' as false boolean
+                    value = value === 'false' ? false : value;
+                    options[key] = value;
+                    options[key1] = value1;
+                    if (key === 'layoutMode' && typeof changeLayoutMode === 'function') {
+                        // changes in layout modes need extra logic
+                        changeLayoutMode($this, options)
+                    } else {
+                        // otherwise, apply new options
+                        $container.isotope(options);
+                    }
+
+                    return false;
+                });
+            });
+        }
+    });
+</script>
+</body>
+</html>

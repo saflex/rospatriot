@@ -1,0 +1,419 @@
+<div class="modal-dialog">
+	<div class="modal-content hiddy-ad">
+		<div class="modal-header"> 
+			<h2>Данные товара</h2>
+			<div class="col-md-20 border-adm-all adm-otst bottom-adm">
+				<div class="col-md-15 adm-otst">
+					<label class="control-label" for="address_first_name_new">Название товара</label>
+					<input type="text" id="address_first_name_new" class="form-control"
+                                               name="address[first_name]" value=""></div>
+				<div class="col-md-5 adm-otst">
+					<label class="control-label" for="address_first_name_new">Цена</label>
+					<input type="text" id="address_first_name_new" class="form-control rub-form"
+                                        name="address[first_name]" value="">
+					<span class="rub">Руб.</span>
+				</div>
+			</div>
+			<div class="col-md-20 border-adm-all adm-otst bottom-adm">
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Выбрать регион</label>
+					<select id="address_country_new" class="form-control" name="address[country]" data-default="">
+						<option value="" data-provinces="[]">-- Не выбран --</option>
+						<option value="black">Москва</option>
+						<option value="gray">Санкт-Петербург</option>
+					</select>
+				</div>
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Выбрать категорию товара</label>
+					<select id="address_country_new" class="form-control" name="address[country]" data-default="">
+						<option value="" data-provinces="[]">-- Не выбрана --</option>
+						<option value="black">Мужская</option>
+						<option value="gray">Женская</option>
+						<option value="black">Детская</option>
+						<option value="gray">Аксессуары</option>
+					</select>
+				</div>
+			</div>
+			<div class="col-md-20 border-adm-all adm-otst bottom-adm">
+				<div class="col-md-10 adm-otst  bord-rig-adm">
+					<ul class="list-unstyled sb-content list-styled">
+						<li>
+							<label class="control-label" for="address_first_name_new">Теги</label>
+							<a class="size-admin blue goAction btooltip active" data-original-title="Нажмите, чтобы изменить или удалить теги" href="javascript: displ('tag-select')">
+								Выбрать теги <i class="fa fa-angle-down"></i>
+							</a>
+							<div id="tag-select" style="display: none;">
+									<div class="no-style-admin line-adm">
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">Мужские</a>
+									</div>
+									<div class="no-style-admin line-adm">
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Женские</a>
+									</div>
+									<div class="no-style-admin line-adm">
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">Санкт-Петербург</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">Толстовки на молнии</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Москва</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Ульяновск</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Майки</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Свитшоты</a>
+									</div>
+								<button class="bosh-adm btn select-option goAction btooltip active" data-original-title="Поставьте галочку напротив одного или нескольких тегов и нажмите на кнопку" type="button">Добавить выбранные теги к товару</button>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Выбранные теги для данного товара:</label>
+					<div class="tag-adm">
+						Мужские
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						Санкт-Петербург
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						Толстовки на молнии
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+
+				</div>
+			</div>
+			<div class="col-md-20 border-adm-all adm-otst bottom-adm">
+				<div class="col-md-20 adm-otst bottom-adm">
+					<label class="control-label" for="address_first_name_new">Фото товара</label>
+            		<button class="btn select-option" type="button"><i class="fa fa-plus sizz"></i> Добавить фото</button>
+            		<div class="photo-adm-cont">
+	            		<div class="photo-adm">
+	            		    <i class="fa fa-times hover-admin goAction btooltip active pos-abs-adm" data-original-title="Удалить фото"></i>
+	            			<img class="size-img-adm" src="/asset/image/demos/demo_83x94.png" alt="">
+	            		</div>
+	            		<div class="photo-adm">
+	            		    <i class="fa fa-times hover-admin goAction btooltip active pos-abs-adm" data-original-title="Удалить фото"></i>
+	            			<img class="size-img-adm" src="/asset/image/demos/demo_83x94.png" alt="">
+	            		</div>
+	            		<div class="photo-adm">
+	            		    <i class="fa fa-times hover-admin goAction btooltip active pos-abs-adm" data-original-title="Удалить фото"></i>
+	            			<img class="size-img-adm" src="/asset/image/demos/demo_83x94.png" alt="">
+	            		</div>
+	            	</div>
+				</div>
+			</div>
+			<div class="col-md-20 border-adm-all adm-otst bottom-adm">
+				<div class="col-md-10 adm-otst  bord-rig-adm">
+					<ul class="list-unstyled sb-content list-styled">
+						<li>
+							<label class="control-label" for="address_first_name_new">Цвет</label>
+							<a class="size-admin blue goAction btooltip active" data-original-title="Нажмите, чтобы выбрать цвет" href="javascript: displ('color')">
+								Выбрать цвет <i class="fa fa-angle-down"></i>
+							</a>
+							<div id="color" style="display: none;">
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Черный</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Синий</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Синий</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Синий</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Розовый</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Красный</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Синий</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Синий</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Синий</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">Синий</a>
+									</div>
+								<button class="bosh-adm btn select-option goAction btooltip active" data-original-title="Поставьте галочку напротив одного или нескольких цветов и нажмите на кнопку" type="button">Добавить выбранные цвета к товару</button>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Выбранные цвета для данного товара:</label>
+					<div class="tag-adm">
+						Черный
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						Белый
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						Синий
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+
+				</div>
+			</div>
+					<div class="col-md-20 border-adm-all adm-otst bottom-adm">
+				<div class="col-md-10 adm-otst  bord-rig-adm">
+					<ul class="list-unstyled sb-content list-styled">
+						<li>
+							<label class="control-label" for="address_first_name_new">Размер</label>
+							<a class="size-admin blue goAction btooltip active" data-original-title="Нажмите, чтобы выбрать размер" href="javascript: displ('size')">
+								Выбрать размер <i class="fa fa-angle-down"></i>
+							</a>
+							<div id="size" style="display: none;">
+							
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">18-20</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">20-22</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">22-24</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">24-26</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">26-28</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">28-30</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">30-32</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">32-34</a>
+									</div>
+										<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">34-36</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">36-38</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">38-40</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">40-42</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">42-44</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">44-46</a>
+									</div>
+										<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">46-48</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">48-50</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">50-52</a>
+									</div>
+										<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">52-54</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox" checked/>
+										</span>
+										<a tabindex="-1">54-56</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">56-58</a>
+									</div>
+									<div class="no-style-admin line-adm">	
+										<span class="name">
+											<input type="checkbox"/>
+										</span>
+										<a tabindex="-1">58-60</a>
+									</div>
+							
+								<button class="bosh-adm btn select-option goAction btooltip active" data-original-title="Поставьте галочку напротив одного или нескольких размеров и нажмите на кнопку" type="button">Добавить размер</button>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Выбранные размер для данного товара:</label>
+					<div class="tag-adm">
+						22-24
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						24-26
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						34-36
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						36-38
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						52-54
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+					<div class="tag-adm">
+						54-56
+						<i class="fa fa-times hover-admin goAction btooltip active" data-original-title="Удалить тег"></i>
+					</div>
+				</div>
+			</div>	
+			<div class="col-md-20 adm-otst">
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Состав</label>
+					<textarea class="textarea-adm"></textarea>
+				</div>
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Описание товара</label>
+					<textarea class="textarea-adm"></textarea>
+				</div>
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Уход за изделием</label>
+					<textarea class="textarea-adm"></textarea>
+				</div>
+				<div class="col-md-10 adm-otst">
+					<label class="control-label" for="address_first_name_new">Обмен/Возврат</label>
+					<textarea class="textarea-adm"></textarea>
+				</div>
+			</div>		
+
+
+			<button class="btn admin-sumbit select-option goAction btooltip active" data-original-title="Чтобы все изменения вступили в силу нажмите на эту кнопку" type="submit" name="checkout"><a href="#">Сохранить все изменения</a></button>
+		</div>
+</div>
